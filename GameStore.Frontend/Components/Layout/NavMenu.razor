@@ -1,9 +1,24 @@
-﻿<nav class="navbar bg-body-tertiary" data-bs-theme="dark">
+﻿<nav class="navbar bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="#">🎲GameStore</a>
+    <NavLink class="navbar-brand text-light" href="#">🎲GameStore</NavLink>
     <div>
-      <button class="btn btn-outline-warning btn-sm"><a class="nav-link" href="#">New Game</a></button>
-      <button class="btn btn-outline-info btn-sm ms-5"><NavLink class="nav-link" href="/editgame">Edit Game</NavLink></button>
+      <button
+        style="background-color: transparent; border: 1px solid #f7b200; color: #f7b200; padding: 4px 8px; border-radius: 5px; font-size: 15px; cursor: pointer; transition: background-color 0.3s, color 0.3s;"
+        onmouseover="this.style.backgroundColor='#f7b200'; this.style.color='#000';"
+        onmouseout="this.style.backgroundColor='#f7b200'; this.style.color='#000';">
+        <NavLink class="nav-link" href="#">Home</NavLink>
+      </button>
+      <button
+        style=" margin-left: 10px;background-color: transparent; border: 1px solid #fb5ffc; color: #fb5ffc; padding: 4px 8px; border-radius: 5px; font-size: 15px; cursor: pointer; transition: background-color 0.3s, color 0.3s;"
+        onmouseover="this.style.backgroundColor='#fb5ffc'; this.style.color='#000';"
+        onmouseout="this.style.backgroundColor='#fb5ffc'; this.style.color='#000';">
+        <NavLink class="nav-link" href="#">About</NavLink>
+      </button>
+      <button
+        style=" margin-left: 10px;background-color: transparent; border: 1px solid #7af9ab; color: #7af9ab; padding: 4px 8px; border-radius: 5px; font-size: 15px; cursor: pointer; transition: background-color 0.3s, color 0.3s;"
+        onmouseover="this.style.backgroundColor='#7af9ab'; this.style.color='#000';"
+        onmouseout="this.style.backgroundColor='#7af9ab'; this.style.color='#000';">
+        <NavLink class="nav-link" href="/editGame">New Game</NavLink></button>
     </div>
 
   </div>
