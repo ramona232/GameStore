@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uyZYL5uFBHSGWMuE3k777ZAAUDRg3XWEYlDnDMMKiIY=",
+  "Hash": "h7X/Dbps49t1owzTMNwbWmC1iMARiv0UEzpWDEjAx60=",
   "Source": "GameStore.Frontend",
   "BasePath": "_content/GameStore.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameStore.Frontend/wwwroot",
       "Source": "GameStore.Frontend",
-      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore.Frontend/wwwroot/",
+      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/wwwroot/",
       "BasePath": "_content/GameStore.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css",
+      "Identity": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "GameStore.Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css"
+      "OriginalItemSpec": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css"
     },
     {
-      "Identity": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css",
+      "Identity": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "GameStore.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "/home/ramo/Desktop/GameStore/GameStore.Frontend/wwwroot/app.css",
+      "Identity": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/wwwroot/app.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore.Frontend/wwwroot/",
+      "ContentRoot": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/wwwroot/",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",

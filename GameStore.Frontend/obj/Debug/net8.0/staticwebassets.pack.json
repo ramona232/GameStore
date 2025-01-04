@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css",
+      "Id": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets/GameStore.Frontend.bundle.scp.css"
     },
     {
-      "Id": "/home/ramo/Desktop/GameStore/GameStore.Frontend/wwwroot/app.css",
+      "Id": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {

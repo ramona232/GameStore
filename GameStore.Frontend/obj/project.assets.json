@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ramo/Desktop/GameStore/GameStore.Frontend/GameStore.Frontend.csproj",
+      "projectUniqueName": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/GameStore.Frontend.csproj",
       "projectName": "GameStore.Frontend",
-      "projectPath": "/home/ramo/Desktop/GameStore/GameStore.Frontend/GameStore.Frontend.csproj",
+      "projectPath": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/GameStore.Frontend.csproj",
       "packagesPath": "/home/ramo/.nuget/packages/",
-      "outputPath": "/home/ramo/Desktop/GameStore/GameStore.Frontend/obj/",
+      "outputPath": "/home/ramo/Desktop/GameStore/GameStore/GameStore.Frontend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ramo/.nuget/NuGet/NuGet.Config"

@@ -1,7 +1,7 @@
 ﻿@page "/"
+@inject GameClient Client
 
 <PageTitle>Game Catalog</PageTitle>
-
 
 @if (games is null)
 {
@@ -9,7 +9,7 @@
 }
 else{
   
-  <table class="table table-striped table-bordered table-hover mt-5 opacity-75">
+  <table class="table table-striped table-bordered table-hover table-responsive opacity-75 mt-5">
   <thead class="table-dark">
     <th>Id</th>
     <th>Name</th>
@@ -37,9 +37,8 @@ else{
 
 
 @code {
-  private GameClient client = new();
   private GameSummary[]? games;
   protected override void OnInitialized(){
-    games = client.GetGames(); 
+    games = Client.GetGames(); 
   }
 }
